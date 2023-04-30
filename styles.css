@@ -2,4 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	align-items: center;
+	align-text: center;
+}
+.item{
+	align-items: center;
 }
